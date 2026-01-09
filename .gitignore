@@ -1,0 +1,8 @@
+# Ignore the following files
+# draft_outline 專題構想
+# final_report 期末專題報告
+# note_program_process.md ai給的程式概要
+
+draft_outline
+final_report
+note_program_process.md
